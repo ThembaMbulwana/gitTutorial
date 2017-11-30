@@ -1,3 +1,5 @@
 Hello git!
 
 Let the games begin.
+
+Cool. Check out file 2
